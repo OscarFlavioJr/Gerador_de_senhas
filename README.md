@@ -1,0 +1,2 @@
+<h1>Criador de senhas fortes!</h1>
+<p>Este projeto serve como "Início" de um caso qual estive desenvolvendo academicamente. Isto seria o embrião para geração de senhas fortes para users não decididos ou gerador de Tokens para controle de uso de um API! Técnicamente falando, comprova conhecimento na biblioteca randômica (E posteriormente, na bcrypt)</p>
